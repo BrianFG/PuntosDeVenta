@@ -1,0 +1,367 @@
+@CHARSET "US-ASCII";
+
+body{
+ background-image: -o-linear-gradient(bottom, #FFFFFF 37%, #065E13 100%);
+background-image: -moz-linear-gradient(bottom, #FFFFFF 37%, #065E13 100%);
+background-image: -webkit-linear-gradient(bottom, #FFFFFF 37%, #065E13 100%);
+background-image: -ms-linear-gradient(bottom, #FFFFFF 37%, #065E13 100%);
+background-image: linear-gradient(to bottom, #FFFFFF 37%, #065E13 100%);
+  font-family: 'Montserrat', Arial;
+  font-size: 1em;
+}
+
+#wrapper{
+
+height: 1000px;
+width: 1200px;
+margin: 0 auto;
+
+}
+
+.countBox{
+	height: 120px;
+	width: 98%;
+	margin: 15px auto auto 25px;
+	float: left;
+	background-color: #D2D7D3;
+	text-align: center;
+	
+}
+
+.countTittle{
+	height: 22%;
+	width: 18%;
+	margin: 5px 10px auto 10px;
+	float: left;
+	background-color: #4183D7 ;
+}
+
+.countSubBox {
+	height: 30%;
+	width: 18%;
+	margin: 5px 10px auto 10px;
+	float: left;
+	
+	
+}
+
+.countSubBox p {
+  position: relative;
+  	-webkit-transform: translateY(-50%);
+  	-ms-transform: translateY(-50%);
+  	transform: translateY(-50%);
+}
+
+.countSubBox2{
+	height: 30%;
+	width: 18%;
+	margin: 0px 10px auto 10px;
+	float: left;
+	vertical-align: text-top;
+}
+
+.countSubBox2 p {
+  position: relative;
+  	-webkit-transform: translateY(-50%);
+  	-ms-transform: translateY(-50%);
+  	transform: translateY(-50%);
+}
+
+.countSubBox2 span{
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;      
+
+}
+
+.lightGreen {
+	background-color: #00B16A ;
+}
+
+.lightGreen2 {
+	background-color: #3FC380 ;
+}
+.green {
+	background-color: #1E824C;
+}
+.green2 {
+	background-color: #26A65B;
+}
+.pink {
+	background-color: #DB0A5B;
+}
+.pink2 {
+	background-color: #F62459;
+}
+.orange {
+	background-color: #F89406;	
+}
+.orange2 {
+	background-color: #F39C12;	
+}
+
+.countTittle2{
+	height:58%;
+	width: 16%;
+	margin: 36px 5px auto 15px;
+	float: left;
+	background-color: #4183D7;
+	
+}
+
+#menu{
+background-color: #F2F2F2;
+height: 250px;
+width: 860px;
+
+margin-top:20px;
+margin-left: 25px;
+float: left;
+overflow: auto;
+}
+
+#seleccion{
+background-color: #F2F2F2;
+height: 225px;
+width: 400px;
+
+margin-top:20px;
+margin-left: 25px;
+float: left;
+
+}
+
+#form{
+background-color: #F2F2F2;
+height: 225px;
+width: 300px;
+
+margin-top:20px;
+margin-left: 25px;
+float: left;
+
+}
+
+
+
+
+   #logo1{
+
+height: 200px;
+width: 200px;
+ margin-top:0px;
+ margin-left: 60px;
+    float: left;
+    
+   display: block;
+    padding: 0; 
+
+   
+    
+}
+
+
+  h2{
+
+    text-align: center;
+  }   
+    
+      h3{
+
+    text-align: center;
+  }  
+    
+#menusest{
+
+height: 150px;
+width: 130px;
+ margin-top:0px;
+ margin-left: 0px;
+    float: left;
+    background-color:#F2F2F2 ;
+   
+    
+}
+   
+    
+
+ 
+
+
+ #menus{
+
+height: 150px;
+width: 130px;
+ margin-top:0px;
+ margin-left: 10px;
+    float: left;
+    background-color: #F2F2F2;
+    overflow: auto;
+    
+}
+
+
+
+  #box1{
+
+height: 500px;
+width: 30%;
+ 
+    float: left;
+    background: white;
+    margin-top:20px;
+margin-left: 60px;
+}
+#box2{
+
+height: 700px;
+width: 98%;
+float: left;
+margin-top:20px;
+margin-left: 25px;
+overflow:auto
+}
+
+#Field1{
+
+height: 70px;
+width: 25%;
+ 
+    float: left;
+    
+    margin-top: 10px;
+margin-left: 25px;
+}
+
+#Field2{
+
+height: 70px;
+width: 25%;
+ margin-top: 10px;
+ margin-left: 20px;
+    float: left;
+    
+}
+
+#Button{
+
+height: 50px;
+width: 25%;
+ 
+    float: left;
+    
+    margin-top:20px;
+margin-left: 40px;
+
+
+}
+
+#Button2{
+
+height: 50px;
+width: 25%;
+float: left;
+margin-top:20px;
+margin-left: 90px;
+}
+
+.button {
+  -moz-box-shadow: 0px 1px 0px 0px #fff6af;
+  -webkit-box-shadow: 0px 1px 0px 0px #fff6af;
+  box-shadow: 0px 1px 0px 0px #fff6af;
+  background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffec64), color-stop(1, #ffab23));
+  background:-moz-linear-gradient(top, #ffec64 5%, #ffab23 100%);
+  background:-webkit-linear-gradient(top, #ffec64 5%, #ffab23 100%);
+  background:-o-linear-gradient(top, #ffec64 5%, #ffab23 100%);
+  background:-ms-linear-gradient(top, #ffec64 5%, #ffab23 100%);
+  background:linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffec64', endColorstr='#ffab23',GradientType=0);
+  background-color:#ffec64;
+  -moz-border-radius:10px;
+  -webkit-border-radius:10px;
+  border-radius:10px;
+  border:1px solid #ffaa22;
+  display:inline-block;
+  cursor:pointer;
+  color:#333333;
+  font-family:arial;
+  font-size:15px;
+  font-weight:bold;
+  padding:9px 25px;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #ffee66;
+}
+.button:hover {
+  background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffab23), color-stop(1, #ffec64));
+  background:-moz-linear-gradient(top, #ffab23 5%, #ffec64 100%);
+  background:-webkit-linear-gradient(top, #ffab23 5%, #ffec64 100%);
+  background:-o-linear-gradient(top, #ffab23 5%, #ffec64 100%);
+  background:-ms-linear-gradient(top, #ffab23 5%, #ffec64 100%);
+  background:linear-gradient(to bottom, #ffab23 5%, #ffec64 100%);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffab23', endColorstr='#ffec64',GradientType=0);
+  background-color:#ffab23;
+}
+.button:active {
+  position:relative;
+  top:1px;
+}
+
+
+
+
+
+#footer {
+    
+    bottom:-65px;
+    left: 15%;
+    width:80%;
+    height:150px;
+    float: left;
+    margin-left: 30px;
+
+}
+
+#cajaMenu {
+	height:200px;
+	width:500px;
+	border:1px solid #ccc;
+	font:16px/26px Georgia, Garamond, Serif;
+	overflow:auto
+
+}
+
+
+
+.buttonD {
+
+    border-style: solid;
+    color: #FFFFFF;	   
+    cursor: pointer;
+    font-style: normal;
+    overflow: hidden;
+    text-align: center;
+    text-decoration: none;
+    text-overflow: ellipsis;
+    transition: all 200ms ease-in-out 0s;	
+    font-family: "Gotham Rounded A","Gotham Rounded B",Helvetica,Arial,sans-serif;
+    font-weight: 700;	
+    font-size: 18px;
+    height: 38px;
+    width: 150px;
+    margin: 15px auto 15px auto;
+}
+
+
+/*Green
+==========================f*/
+.ph-btn-green {
+
+    border-color: #019875;
+	background-color: #019875;
+
+}
+.ph-btn-green:hover, .ph-btn-green:focus, .ph-btn-green:active {
+    background-color: #27ae60;
+    border-color: #27ae60;    
+}
+
